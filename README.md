@@ -1,5 +1,5 @@
 # MagicTower
-Pygame魔塔测试版![](https://github.com/739982423/MagicTower/raw/master/hero1.png)
+Pygame魔塔测试版![](https://github.com/739982423/MagicTower/raw/master/pictures/hero1.png)
 ==
 
 根目录的`.png`和`.jpg`文件为MagicTower所需的像素图片，`towerTEST.py`为原始代码。
