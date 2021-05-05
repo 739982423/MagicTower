@@ -2,8 +2,10 @@
 Pygame魔塔测试版![](https://github.com/739982423/MagicTower/raw/master/pictures/hero1.png)
 ==
 
-根目录的`.png`和`.jpg`文件为MagicTower所需的像素图片，`towerTEST.py`为原始代码。
-`.exe`文件为Pyinstaller生成的可执行程序。
+pictures文件夹内的`.png`和`.jpg`文件为MagicTower所需的像素图片。
+`towerTEST.py`为原始代码。
+`.exe`文件为Pyinstaller生成的可执行程序，需要和pictures文件夹放在同一目录运行。
+
 
 
 
